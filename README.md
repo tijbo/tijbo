@@ -1,5 +1,1 @@
-- 👋 Hi, I’m @tijbo
-- 👀 I’m interested in python, ruby, ruby on rails and SQL
-- 🌱 I’m currently learning python
-- 💞️ I’m looking to collaborate on beginner friendly projects
-- 📫 How to reach me: tpmennink@gmail.com
+
